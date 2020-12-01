@@ -1,0 +1,37 @@
+
+
+  body {
+    width: 100;
+  border: 15px solid green;
+  background-image:
+  padding: 50px;
+  margin: 20px;
+  transform: translate(50px, 100px); 
+  }
+  
+  h1 {
+    color:rgba(5, 15, 5, 0.945);
+    text-align: center;
+  }
+  h2 {
+    color:rgba(5, 15, 5, 0.945);
+    text-align: ;
+  }
+  .serif {
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  .sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration-color: black;
+    background-color: rgba(135, 207, 135, 0.945);
+  }
+  
+  .monospace {
+    font-family: "Lucida Console", Courier, monospace;
+  }
+  input[type=text] {
+    width: 100%;
+    background-color: #3CBC8D;
+    color: white;
+  }
